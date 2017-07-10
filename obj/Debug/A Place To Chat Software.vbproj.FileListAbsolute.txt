@@ -1,0 +1,37 @@
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.exe
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.xml
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Ambiance.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\cypher theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Deimos Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Effectual Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Facebook Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Fader Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Flat.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\light hura theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\MetroFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\MiniTimer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\MonoFlat.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\onlykl theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\PlayUI.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\xVisual Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A_Place_To_Chat_Software.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A_Place_To_Chat_Software.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.exe
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.xml
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\DarkSky theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Simpleblue Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Ubuntu Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Login Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Redemption theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\Elegant Theme.dll
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.exe.manifest
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\bin\Debug\A Place To Chat Software.application
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.TrustInfo.xml
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.exe.manifest
+c:\users\administrator\documents\visual studio 2015\Projects\A Place To Chat Software\A Place To Chat Software\obj\Debug\A Place To Chat Software.application
